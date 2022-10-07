@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d76f52e6-2fbc-4275-b218-5d48ee7c01ea": {
+      "ProjectGuid": "d76f52e6-2fbc-4275-b218-5d48ee7c01ea",
+      "DisplayName": "BookingApi",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "86049557-2b13-47d3-abb7-301f40e638c7": {
+      "ProjectGuid": "86049557-2b13-47d3-abb7-301f40e638c7",
+      "DisplayName": "BookingApiTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
